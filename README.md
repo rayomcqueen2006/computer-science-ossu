@@ -240,11 +240,11 @@ Courses | Duration | Effort | Prerequisites | Discussion
 ### Core networking
 
 **Topics covered**:
-`Social Context`
-`Analytical Tools`
-`Professional Ethics`
-`Intellectual Property`
-`Privacy and Civil Liberties`
+`Networking Layers`
+`Routing Protocols`
+`Linux Networking`
+`Containerisation`
+`Distributed Cloud Infrastructure`
 `and more`
 
 Courses | Duration | Effort | Prerequisites | Discussion
