@@ -237,6 +237,22 @@ Courses | Duration | Effort | Prerequisites | Discussion
 [Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming](https://www.coursera.org/learn/algorithms-greedy) | 4 weeks | 4-8 hours/week | Graph Search, Shortest Paths, and Data Structures | [chat](https://discord.gg/dWVvjuz)
 [Shortest Paths Revisited, NP-Complete Problems and What To Do About Them](https://www.coursera.org/learn/algorithms-npcomplete) | 4 weeks | 4-8 hours/week | Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming | [chat](https://discord.gg/dYuY78u)
 
+### Core networking
+
+**Topics covered**:
+`Social Context`
+`Analytical Tools`
+`Professional Ethics`
+`Intellectual Property`
+`Privacy and Civil Liberties`
+`and more`
+
+Courses | Duration | Effort | Prerequisites | Discussion
+:-- | :--: | :--: | :--: | :--:
+[Network Systems Foundations](https://www.coursera.org/learn/network-systems-foundations?specialization=network-systems-principles-in-practice)| 2 weeks | 10 hours/week | none | -
+[Network Principles in Practice: Linux Networking](https://www.coursera.org/learn/npp-linux-networking?specialization=network-systems-principles-in-practice)| 2 weeks | 10 hours/week | Network Systems Foundations | -
+[Network Principles in Practice: Cloud Networking](https://www.coursera.org/learn/npp-cloud-networking?specialization=network-systems-principles-in-practice)| 2 weeks | 10 hours/week | Network Principles in Practice: Linux Networking | -
+
 ### Core security
 **Topics covered**
 `Confidentiality, Integrity, Availability`
